@@ -1,7 +1,7 @@
 # Rich Vigorito
 
 ```
-Portland OR • (360) 606-8518 •
+Portland OR •
 vigoritor@gmail.com •github.com/richvigorito
 ```
 ## OBJECTIVE
