@@ -3,7 +3,7 @@ My name is Rich Vigorito and I am software architect/backend developer in Portla
 
 ## 📫 How to reach me: 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rich-vigorito-66122b2)
-[<img alt="Instagram" src="https://img.shields.io/badge/richvigorito-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/richvigorito/)
+[<img alt="Instagram" src="https://img.shields.io/badge/ig-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/richvigorito/)
 
 
 
