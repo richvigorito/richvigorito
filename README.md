@@ -2,7 +2,7 @@ Hi 👋
 I'm Rich Vigorito, a Software Architect and Lead Backend Developer based in Portland, Oregon.
 I build reliable, secure, event-driven backend systems — and I love leading collaborative teams that ship great software.
 
-📫 How to reach me:
+📫 Socials:
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <img alt="Instagram" src="https://img.shields.io/badge/ig-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 
