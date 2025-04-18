@@ -20,9 +20,7 @@ Monitoring / CI <img alt="BetterStack" src="https://img.shields.io/badge/BetterS
 Other Tools / Integrations <img alt="Stripe" src="https://img.shields.io/badge/stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/> <img alt="Mailgun" src="https://img.shields.io/badge/mailgun-1F3646?style=for-the-badge&logoColor=white"/> <img alt="AWS S3" src="https://img.shields.io/badge/aws_s3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img alt="HubSpot" src="https://img.shields.io/badge/hubspot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white"/>
 
 
-- 🔭 I’m currently working on ... [https://github.com/richvigorito/dev-challenges|Dev Challenge Repo)
-- 🌱 I’m currently learning  <img alt="Go" srd="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
-- 
+
 <!--
 
 https://github.com/Ileriayo/markdown-badges#programming-languages
@@ -35,6 +33,10 @@ https://github.com/Ileriayo/markdown-badges#programming-languages
 
 Here are some ideas to get you started:
 
+
+- 🔭 I’m currently working on ... [https://github.com/richvigorito/dev-challenges|Dev Challenge Repo)
+- 🌱 I’m currently learning  <img alt="Go" srd="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
+- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
