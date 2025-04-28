@@ -10,7 +10,7 @@ Building reliable, secure, event-driven backend systems.
 
 ## 🛠️ Tech I Work With Regularly
 
-| **Backend / Languages** | **Databases / Queues** | **Infrastructure / DevOps** | **Monitoring / CI / Integrations** |
+| **Languages / Frameworks** | **Databases / Queues** | **Infrastructure / DevOps** | **Monitoring / CI / Integrations** |
 | ----------------------- | ---------------------- | --------------------------- | --------------------------------- |
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![BetterStack](https://img.shields.io/badge/BetterStack-000000?style=for-the-badge&logoColor=white) |
 | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) | ![HAProxy](https://img.shields.io/badge/haproxy-000000.svg?style=for-the-badge&logo=haproxy&logoColor=white) | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) |
