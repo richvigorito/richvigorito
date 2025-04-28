@@ -30,4 +30,4 @@ Building reliable, secure, event-driven backend systems.
 
 ## 🎉 Socials
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  [![Hotfix Fridays](https://img.shields.io/badge/Hotfix%20Fridays-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hotfixfridays)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richvigorito)  [![Hotfix Fridays](https://img.shields.io/badge/Hotfix%20Fridays-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hotfixfridays)
