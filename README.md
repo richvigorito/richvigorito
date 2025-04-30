@@ -21,6 +21,8 @@ Building reliable, secure, event-driven backend systems.
 
 - [Dev Challenges Repo](https://github.com/richvigorito/dev-challenges)
 - [Flip Cup Repo](https://github.com/richvigorito/flip-cup)
+- [Ode to The Best Programming Book Ever Written](https://github.com/richvigorito/the-best-programming-book-ever-written)
+
 
 ## 🌱 Stuff I'm Learning / Brushing Up On
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
