@@ -74,14 +74,6 @@ Built for formalizing content for [foodgeeks.com](https://foodgeeks.com/index.ht
 
 ---
 
-## 📚 Currently Brushing Up On
-
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge)
-
----
-
 ## 🌍 Connect
 
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richvigorito) [![Hotfix Fridays](https://img.shields.io/badge/Hotfix%20Fridays-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hotfixfridays)
