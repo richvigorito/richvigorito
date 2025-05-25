@@ -1,41 +1,87 @@
-# Hi 👋 I'm Rich Vigorito
+# 👋 Hi, I’m Rich Vigorito
 
-**Software Architect** and **Lead Backend Developer** in Portland, OR.  
-Building reliable, secure, event-driven backend systems.
+**Staff Software Architect** & **Lead Backend Engineer** in Portland, OR.  
+I design and deliver reliable, secure, event-driven backend systems — from load balancer to database.
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rich-vigorito)
+---
 
+## 🧠 About Me
 
-## 🛠️ Tech I Work With
+I’ve spent 20+ years building systems from the ground up:
+- Architected full backend stacks: HAProxy, nginx, Linux, MySQL, Redis, REST APIs
+- Designed resilient data models, security layers, and scaling patterns
+- Led teams, mentored devs, and cultivated strong documentation and onboarding
+- Love writing tools, games, and utilities to strengthen dev team culture
+- Partner closely with IT, product owners, stakeholders, and execs to deliver aligned outcomes  
+- Most recent company, an early stage startup, brought product to market. 
 
-✅ Daily driver / deep expertise  🟢 Regularly use  ⚪ Not recent, but solid experience 
+Personal projects I'm currently leaning into **Python**, **Go**, and **language tech** (ASR/NLP)
 
-| **Languages / Frameworks** | **Databases** | **Infrastructure** | ..cont'd |
-|-------------------------|------------------------|-----------------------------|-----------------------------|
-| ✅ ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ✅ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ✅ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | 🟢 ![BetterStack](https://img.shields.io/badge/BetterStack-000000?style=for-the-badge&logoColor=white) |
-| ✅ ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) | 🟢 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white) | 🟢 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | 🟢 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) |
-| ✅ ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |  | ⚪ ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | ⚪ ![Grafana](https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
-| 🟢 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) |  | ⚪ ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | 🟢 ![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) |
-|  |  | ⚪ ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | 🟢 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) |
-|  |  | ⚪ ![Azure](https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ✅ ![HAProxy](https://img.shields.io/badge/haproxy-000000.svg?style=for-the-badge&logo=haproxy&logoColor=white) |
-|  |  |  | 🟢 ![Fail2ban](https://img.shields.io/badge/fail2ban-lightgrey?style=for-the-badge) |
+---
 
+## 📄 Resume
 
+📄 [View My Resume (PDF)](https://drive.google.com/file/d/1Qr_FG2_W4bjl1aQySyBIlCA2Q-3ClI9j/view?usp=drive_link)  
+📫 [Connect on LinkedIn](https://www.linkedin.com/in/rich-vigorito)
 
-## 🚀 Things I'm Working On
+---
 
-- [Dev Challenges Repo](https://github.com/richvigorito/dev-challenges)
-- [Flip Cup Repo](https://github.com/richvigorito/flip-cup)
-- [Ode to The Best Programming Book Ever Written](https://github.com/richvigorito/the-best-programming-book-ever-written)
+## 🧱 Stack Experience
 
+✅ = Owned/design level • 🟢 = Hands-on regular use • ⚪ = Past, but confident
 
-## 🌱 Stuff I'm Learning / Brushing Up On
+| Languages / Frameworks | Infrastructure           | Databases            | Tools                     |
+|------------------------|--------------------------|-----------------------|---------------------------|
+| ✅ PHP, Bash, Laravel  | ✅ HAProxy, nginx, Linux  | ✅ MySQL, Redis        | 🟢 Docker, Cloudflare     |
+| 🟢 Node.js, Go, Python | 🟢 Fail2ban, DigitalOcean | ⚪ Memcached, MongoDB  | ⚪ Jenkins, Prometheus, Grafana |
+| ⚪ C++, C#, Java        | ⚪ AWS, Azure             |                       |                           |
+
+---
+
+## 🚧 What I'm Building
+
+### Team Building / Knowledge Sharing
+
+#### 🧩 [Dev Challenges for Teams](https://github.com/richvigorito/dev-challenges)  
+Mini-games and weekly challenges for engineering teams.  
+Sign up now and be the 9th subscriber to my [LinkedIn newsletter](https://www.linkedin.com/newsletters/dev-challenges-weekly-7323828498429550592/) 😂  
+Too many sites flex for interviews and personal cred. This is for team-building: fun, inclusive, collaborative, and occasionally insightful.
+
+#### 🧠 [Flip Cup (Go + Svelte)](https://github.com/richvigorito/flip-cup)  
+Multiplayer quiz game powered by Go + WebSockets and a SvelteKit UI.  
+A natural companion to Dev Challenges. [PLAY HERE](https://flipcup.fly.dev)
+
+#### 📚 [The Best Programming Book Ever Written!](https://github.com/richvigorito/the-best-programming-book-ever-written)  
+Translating *Algorithms + Data Structures = Programs* from Pascal into Python, Go, and C++.  
+Includes side notes and modern interpretations. Supports Dev Challenges too.
+
+---
+
+### NLP / ASR / DSP / AI (like OMG, RAS amirite?!)
+
+#### 🗣️ [Parlabot (WIP)](https://github.com/richvigorito/parlabot)  
+An Italian language pronunciation coach using DSP and open models.  
+Microservice-based: STT, TTS, API orchestrator, MongoDB, and Kong API Gateway.  
+Tech: React, Go (Gin), Python (FastAPI + Torch), HuggingFace, Kong, MongoDB
+
+#### 🧪 [Recursive Descent Parser](https://github.com/richvigorito/Lexer)  
+A generic recursive descent parser (LL(k)) that builds parse trees.  
+Written in PHP; currently being ported to C for use as shared libs across languages.
+
+#### 🥣 [Recipe Parser](https://github.com/richvigorito/RecipeParser)  
+Regex grammar used with the parser above to tokenize and analyze semi-structured text like recipes.  
+Built for formalizing content for [foodgeeks.com](https://foodgeeks.com/index.html)
+
+---
+
+## 📚 Currently Brushing Up On
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge)
 
-## 🎉 Socials
+---
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richvigorito)  [![Hotfix Fridays](https://img.shields.io/badge/Hotfix%20Fridays-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hotfixfridays)
+## 🌍 Connect
+
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richvigorito) [![Hotfix Fridays](https://img.shields.io/badge/Hotfix%20Fridays-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hotfixfridays)
