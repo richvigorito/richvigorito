@@ -8,7 +8,7 @@ I design and deliver reliable, secure, event-driven backend systems — from loa
 ## 🧠 About Me
 
 I’ve spent 20+ years building systems from the ground up:
-- Architected full backend stacks: HAProxy, nginx, Linux, MySQL, Redis, REST APIs
+- Architected full backend stacks: HAProxy, nginx, Linux, MySQL, Redis, REST APIs, Event Driven Systems
 - Designed resilient data models, security layers, and scaling patterns
 - Led teams, mentored devs, and cultivated strong documentation and onboarding
 - Love writing tools, games, and utilities to strengthen dev team culture
