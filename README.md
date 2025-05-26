@@ -13,7 +13,14 @@ I’ve spent 20+ years building systems from the ground up:
 - Led teams, mentored devs, and cultivated strong documentation and onboarding
 - Love writing tools, games, and utilities to strengthen dev team culture
 - Partner closely with IT, product owners, stakeholders, and execs to deliver aligned outcomes  
-- Most recent company, an early stage startup, brought product to market. 
+- Most recent company, an early stage startup, brought product to market.
+
+Industry domains I’ve worked in:
+- **SupplyStream** – logistics, warehouse packaging supplies, pricing mgmt and e-commerce
+- **Oregon Catholic Press** – book and music publishing, royalties mgmt, lit planning apps, e-commerce
+- **Inspiredware** – student/teacher scheduling and location software
+
+All involved deep system integrations and cross-team collaboration.
 
 Personal projects I'm currently leaning into **Python**, **Go**, and **language tech** (ASR/NLP)
 
