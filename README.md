@@ -77,4 +77,4 @@ Built for formalizing content for [foodgeeks.com](https://foodgeeks.com/index.ht
 ## 🌍 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rich-vigorito)
- [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richvigorito) [![Hotfix Fridays](https://img.shields.io/badge/Hotfix%20Fridays-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hotfixfridays)
+ [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richvigorito) [![Hotfix Fridays - Newsletter X accnt](https://img.shields.io/badge/Hotfix%20Fridays-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hotfixfridays)
