@@ -16,7 +16,7 @@ I’ve spent 20+ years building systems from the ground up:
 - Most recent company, an early stage startup, brought product to market.
 
 Industry domains I’ve worked in:
-- **SupplyStream** – logistics, warehouse packaging supplies, pricing mgmt, b2b & b2c e-commerce
+- **SupplyStream** – drop shipping, logistics, warehouse packaging supplies, pricing mgmt, b2b & b2c e-commerce
 - **Oregon Catholic Press** – book and music publishing, royalties mgmt, lit planning apps, b2b & b2c e-commerce
 - **Inspiredware** – student/teacher scheduling and location software
 
