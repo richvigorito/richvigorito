@@ -28,7 +28,7 @@ Personal projects I'm currently leaning into **Python**, **Go**, and **language 
 
 ## 📄 Resume
 
-📄 [View My Resume (PDF)](https://drive.google.com/file/d/1Qr_FG2_W4bjl1aQySyBIlCA2Q-3ClI9j/view?usp=drive_link](https://drive.google.com/file/d/1I3jDouL18_LhmXfOwiD_nlQeJq377xHr/view?usp=sharing))  
+📄 [View My Resume (PDF)](https://drive.google.com/file/d/1I3jDouL18_LhmXfOwiD_nlQeJq377xHr/view?usp=sharing)  
 📫 [Connect on LinkedIn](https://www.linkedin.com/in/rich-vigorito)
 
 ---
