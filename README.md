@@ -63,7 +63,7 @@ Includes side notes and modern interpretations. Supports Dev Challenges too.
 
 ---
 
-### NLP / ASR / DSP / AI (RAS much?!— redundant acronym syndrome)
+### NLP / ASR / DSP / AI (RAS much?!— Redundant Acronym Syndrome)
 
 #### 🗣️ [Parlabot (WIP)](https://github.com/richvigorito/parlabot)  
 An Italian language pronunciation coach using DSP and open models.  
