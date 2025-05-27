@@ -50,8 +50,7 @@ Personal projects I'm currently leaning into **Python**, **Go**, and **language 
 ### Team Building / Knowledge Sharing
 
 #### 🧩 [Dev Challenges for Teams](https://github.com/richvigorito/dev-challenges)  
-Mini-games and weekly challenges for engineering teams.  
-Sign up now and be the 9th subscriber to my [LinkedIn newsletter](https://www.linkedin.com/newsletters/dev-challenges-weekly-7323828498429550592/) 😂  
+Mini-games and weekly challenges for engineering teams. Sign up now and be the 9th subscriber to my [LinkedIn newsletter](https://www.linkedin.com/newsletters/dev-challenges-weekly-7323828498429550592/) 😂  
 Too many sites flex for interviews and personal cred. This is for team-building: fun, inclusive, collaborative, and occasionally insightful.
 
 #### 🧠 [Flip Cup (Go + Svelte)](https://github.com/richvigorito/flip-cup)  
